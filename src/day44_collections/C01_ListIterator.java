@@ -1,6 +1,7 @@
 package day44_collections;
 
 import java.util.ArrayList;
+import java.util.LinkedList;
 import java.util.List;
 import java.util.ListIterator;
 
@@ -32,6 +33,9 @@ public class C01_ListIterator {
 
         }
         System.out.println("liste = " + liste);//23,40
+
+
+
 
 
 
