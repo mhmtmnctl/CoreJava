@@ -18,9 +18,9 @@ public class C01_AsciiTable
               eğer matematiksel işleme girdiği variable sayısal bir değer ise sayı gibi davranır.
 
                 char yeniHarf= harf +2; java önce sağdaki işlemi yapar.Sağda int+char görünce ascii değerini alır ve sonucu 99 bulur.
-                sonra atama işlemi yaapmaya çalışır. char yeniHarf=99; bu ataam java açısından kabukl edilebilir değildir
+                sonra atama işlemi yaapmaya çalışır. char yeniHarf=99; bu ataam java açısından kabul edilebilir değildir
 
-           2- str+harf String vaiable çok güçlüdür.. hangi data türü ile işleme girerse girsin diğer data türünü kendine benzetir.
+           2- str+harf String variable çok güçlüdür.. hangi data türü ile işleme girerse girsin diğer data türünü kendine benzetir.
 
          */
 
