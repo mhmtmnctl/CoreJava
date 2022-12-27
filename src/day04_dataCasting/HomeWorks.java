@@ -23,7 +23,8 @@ public class HomeWorks {
         int sayi6= 50;
         short sayi7 = (short)sayi6;
         byte sayi8 = (byte)sayi7;
-        System.out.println("sayı7="+sayi7+"sayi8:"+sayi8);
+        System.out.println("sayı7 ="+sayi7+" sayi8: " +sayi8);
+
 
         //3-float veri türünde bir variable oluştur ve yazdır
 
@@ -35,7 +36,7 @@ public class HomeWorks {
         double dbl = 255.6;
         int yenisayi = (int)dbl;
         byte byt = (byte)yenisayi;
-        System.out.println(byt);
+        System.out.println("byte değeri :"+byt);
 
         //5-int saiyi birbirine böldürün ve sonucu yazdırın.
 
