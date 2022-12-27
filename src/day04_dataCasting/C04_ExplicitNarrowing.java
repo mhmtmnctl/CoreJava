@@ -15,7 +15,7 @@ public class C04_ExplicitNarrowing {
         int sayi1=132;
 
         byte sayi2= (byte) sayi1;
-        System.out.println(sayi2);// 50
+        System.out.println(sayi2);
 
 
     }

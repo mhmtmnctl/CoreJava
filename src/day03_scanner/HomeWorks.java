@@ -32,10 +32,12 @@ public class HomeWorks {
         System.out.println("lütfen yüksekliği giriniz.");
         int h= scan.nextInt();
         System.out.println("Dikdörtgenler prizmasının hacmi="+ (uzn*ks*h));
+        scan.nextLine();
+
 
         //5-Kullanıcıdan ismini ve soy ismini alıp alt alta yazdırın
         //Scanner scan = new Scanner(System.in);
-        System.out.println("Lütfen isminizi giriniz");
+        System.out.println("\nLütfen isminizi giriniz:");
         String isim = scan.nextLine();//nextline birden fazla değer girip entere basınca diğerini iste
         System.out.println("Lütfen soyisminizi giriniz.");
         String soyIsim = scan.nextLine();
